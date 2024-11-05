@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bddaax.github.io/242saurus/blog</id>
+    <id>https://bddaax.github.io/242saurus/blog/</id>
     <title>242saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bddaax.github.io/242saurus/blog"/>
+    <link rel="alternate" href="https://bddaax.github.io/242saurus/blog/"/>
     <subtitle>242saurus Blog</subtitle>
     <icon>https://bddaax.github.io/242saurus/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://bddaax.github.io/242saurus/blog/POP-QUIZ/</id>
+        <link href="https://bddaax.github.io/242saurus/blog/POP-QUIZ/"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[| Madeline | Brenda |]]></summary>
+        <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center"><img decoding="async" loading="lazy" alt="Madeline" src="https://bddaax.github.io/242saurus/assets/images/madeline-72b081e3d7a08c3200762994cf520d0b.png" width="2700" height="3375" class="img_ev3q"></th><th style="text-align:center"><img decoding="async" loading="lazy" alt="Brenda" src="https://bddaax.github.io/242saurus/assets/images/brenda-215d68865206b32015cc45196c3f0338.png" width="2700" height="3375" class="img_ev3q"></th></tr></thead></table>
+<p>RAWWWR! 🦖✨ Hold on to your fossils, folks! Brendosaurus and Madelinosaurus are stomping into town with their first ever POP QUIZ post! 🦕💥</p>
+<p>-- Brenda Po Lok Fahida and Madeline Clairine Gultom.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Brenda Po Lok Fahida</name>
+            <uri>https://github.com/bddaax/os242/</uri>
+        </author>
+        <author>
+            <name>Madeline Clairine Gultom</name>
+            <uri>https://github.com/mdlnecg/os242/</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://bddaax.github.io/242saurus/blog/welcome</id>
-        <link href="https://bddaax.github.io/242saurus/blog/welcome"/>
+        <id>https://bddaax.github.io/242saurus/blog/welcome/</id>
+        <link href="https://bddaax.github.io/242saurus/blog/welcome/"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
         <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
@@ -40,8 +70,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://bddaax.github.io/242saurus/blog/mdx-blog-post</id>
-        <link href="https://bddaax.github.io/242saurus/blog/mdx-blog-post"/>
+        <id>https://bddaax.github.io/242saurus/blog/mdx-blog-post/</id>
+        <link href="https://bddaax.github.io/242saurus/blog/mdx-blog-post/"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
@@ -58,8 +88,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://bddaax.github.io/242saurus/blog/long-blog-post</id>
-        <link href="https://bddaax.github.io/242saurus/blog/long-blog-post"/>
+        <id>https://bddaax.github.io/242saurus/blog/long-blog-post/</id>
+        <link href="https://bddaax.github.io/242saurus/blog/long-blog-post/"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -89,8 +119,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://bddaax.github.io/242saurus/blog/first-blog-post</id>
-        <link href="https://bddaax.github.io/242saurus/blog/first-blog-post"/>
+        <id>https://bddaax.github.io/242saurus/blog/first-blog-post/</id>
+        <link href="https://bddaax.github.io/242saurus/blog/first-blog-post/"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
