@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+bddaax:
+  name: Brenda Po Lok Fahida
+  title: Brendosaurus
+  url: https://github.com/bddaax/os242/
+  image_url: /img/brendaimg.jpg
+  page: true
+  socials:
+    github: bddaax
+
+mdlnecg:
+  name: Madeline Clairine Gultom
+  title: Madelinosaurus
+  url: https://github.com/mdlnecg/os242/
+  image_url: /img/madelineimg.jpg
+  page: true
+  socials:
+    github: mdlnecg
